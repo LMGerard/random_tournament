@@ -28,6 +28,6 @@ workflows:
     publishing:
       email:
         recipients:
-          - name@example.com
+          - lmgd@outlook.com
       scripts:
         - echo 'Post-publish script'
