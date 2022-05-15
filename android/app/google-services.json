@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342174967360",
+    "project_id": "random-tournament-59105",
+    "storage_bucket": "random-tournament-59105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342174967360:android:0f4f64a3baac3337f5a1a5",
+        "android_client_info": {
+          "package_name": "com.example.random_tournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342174967360-7qu1d79kqt595a4vlfiinnk1aa1vlqbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMzqwjEHIeAtscMLNfRXPA0X-PYK3gEzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342174967360-7qu1d79kqt595a4vlfiinnk1aa1vlqbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
